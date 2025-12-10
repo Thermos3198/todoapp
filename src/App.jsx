@@ -112,7 +112,7 @@ function App() {
         {/* kártya fejléc */}
         <header>
           <h1>Teendőlista</h1>
-          <p>Egyszerű todo app</p>
+          <p>Egyszerű todo app szia fruzsi</p>
         </header>
 
         {/* input mező és a hozzáadás gomb */}
